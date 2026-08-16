@@ -37,7 +37,7 @@ create table exchange_value
 ```
 
 ## Containerization
-
+## de eerste teste na jaren met azure pipeline oefening
 ### Troubleshooting
 
 - Problem - Caused by: com.spotify.docker.client.shaded.javax.ws.rs.ProcessingException: java.io.IOException: No such file or directory
